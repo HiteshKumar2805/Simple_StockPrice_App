@@ -95,16 +95,11 @@ Here are some ways you can enhance the app:
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contributing
 If you'd like to contribute to this project, feel free to open a pull request or report issues.
 
 ---
 
 ## Author
-Created by [Your Name].
+Created by Hitesh Kumar S
 
